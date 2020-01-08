@@ -36,7 +36,7 @@ receive slightly more emails (~25-35 over the course of the five days in the dat
 from their own team members. The difference is mainly as a result of number of CC
 emails sent and received.
 
-2. To improve engagement in the Palo Alto office, I would recommend Humanyze to
+2. To improve engagement in the Palo Alto office, I would recommend the company to
 further look into the nature of emails that are being sent and not sent. Do they need
 to meet with managers more in person while communicate more by email with others?
 Are they getting too much emails of little value and not getting the important responses
